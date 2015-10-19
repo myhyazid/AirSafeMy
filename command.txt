@@ -1,1 +1,0 @@
-*/1 * * * * /usr/bin/curl --silent http://myhyazid.koding.io/AirSafeMy/mainframe/array.php
